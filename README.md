@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [Anusha A](https://github.com/shaaa06)
 
 ## 🙏 Acknowledgments
 
@@ -143,10 +143,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/cyber-hacking-prediction/issues) page
+1. Check the [Issues](https://github.com/shaaa06/cyber-hacking-prediction/issues) page
 2. Create a new issue with detailed description
-3. Contact: your.email@example.com
+3. Contact: anushaavula92@gmail.com
 
 ---
 
 ⭐ **Star this repository if you find it helpful!**
+
