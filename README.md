@@ -31,8 +31,11 @@ A comprehensive web application that predicts cyber hacking breaches using vario
 ## 🚀 Installation
 
 ### 1. Clone the Repository
+
+Repository: [https://github.com/shaaa06/cyber-hacking-prediction](https://github.com/shaaa06/cyber-hacking-prediction)
+
 ```bash
-git clone https://github.com/shaaa06/cyber-hacking-prediction.git
+git clone https://github.com/yourusername/cyber-hacking-prediction.git
 cd cyber-hacking-prediction
 ```
 
@@ -57,7 +60,7 @@ mydb = mysql.connector.connect(
     host='localhost',
     port=3306,          
     user='root',        
-    passwd='your password'  #Replace with your MySQL password
+    passwd='your_password',  # Replace with your MySQL password
     database='cyber1'  
 )
 ```
@@ -82,8 +85,8 @@ docker run -p 5000:5000 cyber-hacking-app
 ## 🌐 Access the Application
 
 Open your web browser and navigate to:
-- **Local**: http://localhost:5000
-- **Network**: http://your-ip-address:5000
+- **Local**: [http://localhost:5000](http://localhost:5000)
+- **Network**: [http://your-ip-address:5000](http://your-ip-address:5000)
 
 ## 📊 Dataset
 
@@ -131,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [Anusha A](https://github.com/shaaa06)
+- GitHub: [shaaa06](https://github.com/shaaa06)
 
 ## 🙏 Acknowledgments
 
@@ -150,7 +153,3 @@ If you encounter any issues or have questions:
 ---
 
 ⭐ **Star this repository if you find it helpful!**
-
-
-
-
