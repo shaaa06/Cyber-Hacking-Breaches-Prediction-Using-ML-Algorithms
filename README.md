@@ -32,11 +32,11 @@ A comprehensive web application that predicts cyber hacking breaches using vario
 
 ### 1. Clone the Repository
 
-Repository: [https://github.com/shaaa06/cyber-hacking-prediction](https://github.com/shaaa06/cyber-hacking-prediction)
+Repository: [https://github.com/shaaa06/cyber-hacking-prediction](https://github.com/shaaa06/Cyber-Hacking-Breaches-Prediction-Using-ML-Algorithms)
 
 ```bash
-git clone https://github.com/yourusername/cyber-hacking-prediction.git
-cd cyber-hacking-prediction
+git clone https://github.com/shaaa06/Cyber-Hacking-Breaches-Prediction-Using-ML-Algorithms.git
+cd Cyber-Hacking-Breaches-Prediction-Using-ML-Algorithms
 ```
 
 ### 2. Install Python Dependencies
@@ -153,3 +153,4 @@ If you encounter any issues or have questions:
 ---
 
 ⭐ **Star this repository if you find it helpful!**
+
