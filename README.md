@@ -57,7 +57,7 @@ mydb = mysql.connector.connect(
     host='localhost',
     port=3306,          
     user='root',        
-    passwd='Anush@36'
+    passwd='your password'  #Replace with your MySQL password
     database='cyber1'  
 )
 ```
@@ -150,6 +150,7 @@ If you encounter any issues or have questions:
 ---
 
 ⭐ **Star this repository if you find it helpful!**
+
 
 
 
